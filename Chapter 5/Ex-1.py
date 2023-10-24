@@ -1,8 +1,14 @@
+# Val Kyrvey Latoja
+"""
+Person
+
+Chapter 5 Exercise 1
+"""
 person={
-    'first_name': 'val',
-    'last_name': 'latoja',
+    'first_name': 'Val',
+    'last_name': 'Latoja',
     'age': 18,
-    'city': 'dubai',
+    'city': 'Dubai',
     }
 print(person['first_name'])
 print(person['last_name'])

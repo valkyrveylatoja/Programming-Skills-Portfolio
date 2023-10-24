@@ -1,3 +1,9 @@
+# Val Kyrvey Latoja
+"""
+Glossary 2
+
+Chapter 5 Exercise 3
+""" 
 glossary2={
     'james': 'one of my besties.',
     'cid': 'a questionable guy.'

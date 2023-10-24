@@ -1,3 +1,9 @@
+# Val Kyrvey Latoja
+"""
+Glossary
+
+Chapter 5 Exercise 2
+""" 
 glossary={
     'val': 'an awesome guy.',
     'sam': 'also an awesome guy.'

@@ -1,3 +1,9 @@
+# Val Kyrvey Latoja
+"""
+Pets
+
+Chapter 5 Exercise 5
+""" 
 pets=[]
 pet={
      'animal type': 'dog',
