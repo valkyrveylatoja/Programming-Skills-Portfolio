@@ -1,3 +1,9 @@
+# Val Kyrvey Latoja
+"""
+Alien Colors #2
+
+Chapter 4 Exercise 2
+"""
 alien_color='green'
 if alien_color=='green':
     print('you just earned 5 points!')
