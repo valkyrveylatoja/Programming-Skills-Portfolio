@@ -1,3 +1,9 @@
+# Val Kyrvey Latoja
+"""
+Deli
+
+Chapter 6 Exercise 4
+""" 
 sandwich_orders=['tuna','ham and cheese','veggie']
 finished_sandwiches=[]
 while sandwich_orders:

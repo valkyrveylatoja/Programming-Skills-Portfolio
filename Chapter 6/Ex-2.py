@@ -1,4 +1,10 @@
-prompt="how old are you?"
+# Val Kyrvey Latoja
+"""
+Movie Tickets
+
+Chapter 6 Exercise 2
+""" 
+prompt="How old are you?"
 while True:
     age=input(prompt)
     if age=='quit':
@@ -6,9 +12,9 @@ while True:
     age=int(age)
     
     if age <3:
-        print('you get in free!')
+        print('You get in free!')
     elif age<13:
-        print('your ticket will be $10.')
+        print('Your ticket will be $10.')
     else:
-        print('your ticket is $15.')
+        print('Your ticket is $15.')
 #using if, elif, and else nested function from the while true function. this can only work if the user answers with an integer answer.

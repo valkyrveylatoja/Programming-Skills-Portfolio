@@ -1,3 +1,9 @@
+# Val Kyrvey Latoja
+"""
+No Pastrami
+
+Chapter 6 Exercise 5
+""" 
 sandwich_orders=['ham and cheese','peanut butter and jelly','pastrami']
 finished_sandwiches=[]
 print('im sorry, were all out of ham and pastramy today.')
