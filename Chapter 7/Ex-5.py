@@ -1,3 +1,9 @@
+# Val Kyrvey Latoja
+"""
+Cities
+
+Chapter 7 Exercise 5
+"""
 def describe_city(city, country='philippines'):
     msg=city.title()+" is in the "+country.title()+"."
     print(msg)

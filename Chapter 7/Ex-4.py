@@ -1,3 +1,9 @@
+# Val Kyrvey Latoja
+"""
+Large Shirts
+
+Chapter 7 Exercise 4
+""" 
 def make_shirt(size='large', message='this is a shirt!'):
     print('im going to make a',size,' t-shirt.')
     print('it will say,"',message,'"')

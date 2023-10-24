@@ -1,3 +1,9 @@
+# Val Kyrvey Latoja
+"""
+T-Shirt
+
+Chapter 7 Exercise 3
+""" 
 def make_shirt(size, message):
     print("im wearing a ",size," t-shirt.")
     print('it says, "'+message+'"')
